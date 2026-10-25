@@ -22,7 +22,7 @@ targetKeyword:
 
 ### 📺 **45kg Sandbag Clean & Press x 5**
 
-![](https://youtu.be.com/f4eU2n4Hxys)
+![](https://youtu.be/f4eU2n4Hxys)
 
 ---
 
