@@ -22,38 +22,7 @@ targetKeyword:
 
 ### 📺 **45kg Sandbag Clean & Press x 5**
 
-![](https://youtube-nocookie.com/watch?v=f4eU2n4Hxys)
-
-<iframe 
-    src="https://youtube-nocookie.com/watch?v=f4eU2n4Hxys" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    allowfullscreen="true"
-    webkitallowfullscreen="true"
-    mozallowfullscreen="true">
-  </iframe>
-
-  ![](https://youtube-nocookie.com/embed/f4eU2n4Hxys)
-
-<iframe 
-    src="https://youtube-nocookie.com/embed/f4eU2n4Hxys" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    allowfullscreen="true"
-    webkitallowfullscreen="true"
-    mozallowfullscreen="true">
-  </iframe>
-<iframe 
-    src="https://youtube.com/watch?v=f4eU2n4Hxys" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    allowfullscreen="true"
-    webkitallowfullscreen="true"
-    mozallowfullscreen="true">
-  </iframe>
+![](https://youtu.be.com/f4eU2n4Hxys)
   
 ---
 
