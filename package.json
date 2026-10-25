@@ -70,5 +70,12 @@
     "cross-env": "^10.1.0",
     "mdast-util-to-hast": "^13.2.0",
     "wrangler": "^4.71.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp",
+      "workerd"
+    ]
   }
 }
